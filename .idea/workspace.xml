@@ -34,6 +34,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Task_N1.executor": "Run",
     "Python.Task_N2.executor": "Run",
+    "Python.Task_N3.executor": "Run",
     "Python.task_N1.executor": "Run",
     "Python.task_N2.executor": "Run",
     "Python.task_N3.executor": "Run",
@@ -99,6 +100,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task_N3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="~\PycharmProjects\Python_web_programing_saba_siradze\.venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework_N3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework_N3/Task_N3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -122,7 +149,7 @@
       <workItem from="1792221379638" duration="7000" />
       <workItem from="1792397468432" duration="1860000" />
       <workItem from="1792511797263" duration="325000" />
-      <workItem from="1793874465589" duration="499000" />
+      <workItem from="1793874465589" duration="681000" />
     </task>
     <servers />
   </component>
@@ -134,6 +161,7 @@
     <SUITE FILE_PATH="coverage/Python_web_programing_saba_siradze$task_N1.coverage" NAME="task_N1 Coverage Results" MODIFIED="1792397915991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework_N2" />
     <SUITE FILE_PATH="coverage/Python_web_programing_saba_siradze$task_N3.coverage" NAME="task_N3 Coverage Results" MODIFIED="1792398541458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework_N2" />
     <SUITE FILE_PATH="coverage/Python_web_programing_saba_siradze$Task_N1.coverage" NAME="Task_N1 Coverage Results" MODIFIED="1793874686754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework_N3" />
+    <SUITE FILE_PATH="coverage/Python_web_programing_saba_siradze$Task_N3.coverage" NAME="Task_N3 Coverage Results" MODIFIED="1793875147339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework_N3" />
     <SUITE FILE_PATH="coverage/Python_web_programing_saba_siradze$task_N2.coverage" NAME="task_N2 Coverage Results" MODIFIED="1792398242257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Homework_N2" />
   </component>
 </project>
